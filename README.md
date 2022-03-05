@@ -58,8 +58,14 @@ Adding the description after
     <a target="_blank" href="https://kotest.io/">
       <img height="40" src="icon/kotest.png" alt="Kotest">
     </a>
+    <a target="_blank" href="https://mockk.io/">
+      <img height="40" src="icon/mockk.png" alt="Mockk">
+    </a>
     <a target="_blank" href="https://docs.spring.io/spring-framework/docs/current/reference/html/testing.html">
       <img height="40" src="icon/spring-3.svg" alt="Spring-Test">
+    </a>
+    <a target="_blank" href="https://github.com/stretchr/testify">
+      <img height="40" src="icon/testify.png" alt="Spring-Test">
     </a>
     <a target="_blank" href="https://jmeter.apache.org/">
       <img height="40" src="icon/jmeter.svg" alt="JMeter">
@@ -115,6 +121,19 @@ Adding the description after
     </a>
     <a target="_blank" href="https://aws.amazon.com/xray/">
       <img height="40" src="icon/aws-xray.svg" alt="AWS X-ray">
+    </a>
+</div>
+
+### Deployment and build tools
+<div style="display: flex">
+    <a target="_blank" href="https://maven.apache.org/">
+      <img height="40" src="icon/maven-logo-black-on-white.png" alt="Maven">
+    </a>
+    <a target="_blank" href="https://gradle.org/">
+      <img height="40" src="icon/gradle.png" alt="Gradle">
+    </a>
+    <a target="_blank" href="https://www.jenkins.io/">
+      <img height="40" src="icon/jenkins.svg" alt="Jenkins">
     </a>
 </div>
 
