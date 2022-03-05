@@ -179,6 +179,15 @@ Adding the description after
     <a target="_blank" href="https://en.wikipedia.org/wikai/Integration_testing">
       <img height="40" src="icon/integration-tests.png" alt="Lean development">
     </a>
+    <a target="_blank" href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?keywords=clean+architecture&qid=1646523595&sprefix=clean+ar%2Caps%2C210&sr=8-1">
+      <img height="40" src="icon/clean-architecture.png" alt="Clean Architecture">
+    </a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/SOLID">
+      <img height="40" src="icon/solid.png" alt="TDD">
+    </a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Test-driven_development">
+      <img height="40" src="icon/tdd.png" alt="TDD">
+    </a>
 </div>
 
 ### Code management
