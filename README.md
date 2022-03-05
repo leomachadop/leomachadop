@@ -1,4 +1,4 @@
-# 👋 Hi guys, I'm Leo!! <img src="icon/running-run-svgrepo-com.svg" width="24px">
+# 👋 Hi guys, I'm Leo!!! <img src="icon/running-run-svgrepo-com.svg" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/leomachadop/?locale=en_US">
   <img align="left" alt="LinkdeIN" width="40px" src="icon/linkedin-icon.svg" />
@@ -39,13 +39,32 @@ Adding the description after
     <a target="_blank" href="https://spring.io/">
       <img height="40" src="icon/spring-3.svg" alt="Spring">
     </a>
+    <a target="_blank" href="https://micronaut.io/">
+      <img height="40" src="icon/sally_micronaut_mascot.svg" alt="Micronaut">
+    </a>
     <a target="_blank" href="https://hibernate.org/">
       <img height="40" src="icon/hibernate.svg" alt="Hibernate">
     </a>
 </div>
 
 ### Tests Frameworks
-
+<div style="display: flex">
+    <a target="_blank" href="https://junit.org/">
+      <img height="40" src="icon/junit.png" alt="JUnit">
+    </a>
+    <a target="_blank" href="https://site.mockito.org/">
+      <img height="40" src="icon/mockito.png" alt="Mockito">
+    </a>
+    <a target="_blank" href="https://kotest.io/">
+      <img height="40" src="icon/kotest.png" alt="Kotest">
+    </a>
+    <a target="_blank" href="https://docs.spring.io/spring-framework/docs/current/reference/html/testing.html">
+      <img height="40" src="icon/spring-3.svg" alt="Spring-Test">
+    </a>
+    <a target="_blank" href="https://jmeter.apache.org/">
+      <img height="40" src="icon/jmeter.svg" alt="JMeter">
+    </a>
+</div>
 
 ### Cloud
 <div style="display: flex">
@@ -81,6 +100,9 @@ Adding the description after
     <a target="_blank" href="https://aws.amazon.com/s3/">
       <img height="40" src="icon/Amazon-S3-Logo.svg" alt="S3">
     </a>
+    <a target="_blank" href="https://kafka.apache.org/">
+      <img height="40" src="icon/kafka.svg" alt="Kafka">
+    </a>
 </div>
 
 ### Monitoring and Observability Tools
@@ -112,7 +134,7 @@ Adding the description after
     </a>
 </div>
 
-### Agile tools and code management
+### Agile tools
 <div style="display: flex">
     <a target="_blank" href="https://www.atlassian.com/software/jira">
       <img height="40" src="icon/jira-original-wordmark.svg" alt="Jira">
@@ -131,6 +153,12 @@ Adding the description after
     </a>
     <a target="_blank" href="https://en.wikipedia.org/wiki/Lean_software_development">
       <img height="40" src="icon/method-ch2.svg" alt="Lean development">
+    </a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Unit_testing">
+      <img height="40" src="icon/unit-tests.png" alt="Lean development">
+    </a>
+    <a target="_blank" href="https://en.wikipedia.org/wikai/Integration_testing">
+      <img height="40" src="icon/integration-tests.png" alt="Lean development">
     </a>
 </div>
 
