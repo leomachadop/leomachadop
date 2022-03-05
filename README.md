@@ -38,11 +38,9 @@ Adding the description after
 <div style="display: flex">
     <figure>
       <img height="40" src="icon/spring-3.svg" alt="Spring">
-      <figcaption style="text-align: center;">Spring</figcaption>
     </figure>
     <figure>
       <img height="40" src="icon/hibernate.svg" alt="Hibernate">
-      <figcaption style="text-align: center;">Hibernate</figcaption>
     </figure>
 </div>
 
