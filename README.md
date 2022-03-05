@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Ary!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hi guys, I'm Leo!! <img src="icon/Running_icon_-_Noun_Project_17825.svg" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/leomachadop/?locale=en_US">
   <img align="left" alt="LinkdeIN" width="40px" src="icon/linkedin.svg" />
@@ -20,7 +20,7 @@ Adding the description after
 
 ----
 
-##Programming languages and platforms
+## Programming languages and platforms
 <div style="display: flex">
     <figure>
       <img height="60" src="icon/icons8-kotlin.svg" alt="Kotlin">
@@ -61,7 +61,7 @@ Adding the description after
     </figure>
 </div>
 
-##Containers
+## Containers
 <div style="display: flex">
     <figure>
       <img height="60" src="icon/docker-original-wordmark.svg" alt="Docker">
@@ -113,7 +113,7 @@ Adding the description after
     </figure>
 </div>
 
-##Databases
+## Databases
 <div style="display: flex">
     <figure>
       <img height="60" src="icon/postgresql-original-wordmark.svg" alt="PostgreSQL">
