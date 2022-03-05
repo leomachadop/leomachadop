@@ -36,12 +36,12 @@ Adding the description after
 
 ### Frameworks
 <div style="display: flex">
-    <figure>
+    <a target="_blank" href="https://spring.io/">
       <img height="40" src="icon/spring-3.svg" alt="Spring">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://hibernate.org/">
       <img height="40" src="icon/hibernate.svg" alt="Hibernate">
-    </figure>
+    </a>
 </div>
 
 ### Tests Frameworks
@@ -49,98 +49,102 @@ Adding the description after
 
 ### Cloud
 <div style="display: flex">
-    <figure>
+    <a target="_blank" href="https://aws.amazon.com/">
       <img height="40" src="icon/amazonwebservices-original.svg" alt="AWS">
-    </figure>
+    </a>
 </div>
 
 ### Containers
 <div style="display: flex">
-    <figure>
+    <a target="_blank" href="https://www.docker.com/">
       <img height="40" src="icon/docker-original-wordmark.svg" alt="Docker">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://kubernetes.io/">
       <img height="40" src="icon/kubernetes-plain-wordmark.svg" alt="Kubernetes">
-    </figure>
+    </a>
 </div>
 
 ### Cloud components
 <div style="display: flex">
-    <figure>
+    <a target="_blank" href="https://aws.amazon.com/lambda/">
       <img height="40" src="icon/aws-lambda-svgrepo-com.svg" alt="Lambda">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://aws.amazon.com/ecs/">
       <img height="40" src="icon/amazon_ecs-icon.svg" alt="ECS">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://aws.amazon.com/eks/">
       <img height="40" src="icon/88_amazon-eks-icon.1593699613.svg" alt="EKC">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://aws.amazon.com/sqs/">
       <img height="40" src="icon/aws-sqs-simple-queue-service-seeklogo.com.svg" alt="SQS">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://aws.amazon.com/s3/">
       <img height="40" src="icon/Amazon-S3-Logo.svg" alt="S3">
-    </figure>
+    </a>
 </div>
 
 ### Monitoring and Observability Tools
 <div style="display: flex">
-    <figure>
+    <a target="_blank" href="https://www.datadoghq.com/">
       <img height="40" src="icon/datadog-1.svg" alt="DataDog">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://aws.amazon.com/cloudwatch/">
       <img height="40" src="icon/aws-cloudwatch3112.jpg" alt="AWS CloudWatch">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://aws.amazon.com/xray/">
       <img height="40" src="icon/aws-xray.svg" alt="AWS X-ray">
-    </figure>
+    </a>
 </div>
 
 ### Databases
 <div style="display: flex">
-    <figure>
-      <img height="40" src="icon/postgresql-original-wordmark.svg" alt="PostgreSQL">
-    </figure>
-    <figure>
+    <a target="_blank" href="https://www.oracle.com/br/database/">
       <img height="40" src="icon/oracle-original.svg" alt="Oracle">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://www.postgresql.org/">
+      <img height="40" src="icon/postgresql-original-wordmark.svg" alt="PostgreSQL">
+    </a>
+    <a target="_blank" href="https://cassandra.apache.org/_/index.html">
       <img height="40" src="icon/Cassandra_logo.svg" alt="Cassandra">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://www.mongodb.com/">
       <img height="40" src="icon/mongodb-icon-1.svg" alt="MongoDB">
-    </figure>
+    </a>
 </div>
 
 ### Agile tools and code management
 <div style="display: flex">
-    <figure>
+    <a target="_blank" href="https://www.atlassian.com/software/jira">
       <img height="40" src="icon/jira-original-wordmark.svg" alt="Jira">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://www.atlassian.com/software/confluence">
       <img height="40" src="icon/confluence-1.svg" alt="Confluence">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://www.scrum.org/">
       <img height="40" src="icon/scrum-1.svg" alt="Scrum">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://www.scrum.org/resources/kanban-guide-scrum-teams">
       <img height="40" src="icon/kanban.svg" alt="Kanban">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Code_review">
       <img height="40" src="icon/customer-reviews-svgrepo-com.svg" alt="Code Review">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Lean_software_development">
       <img height="40" src="icon/method-ch2.svg" alt="Lean development">
-    </figure>
-    <figure>
+    </a>
+</div>
+
+### Code management
+<div style="display: flex">
+    <a target="_blank" href="https://github.com/">
       <img height="40" src="icon/Octicons-mark-github.svg" alt="Github">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://about.gitlab.com/">
       <img height="40" src="icon/gitlab.svg" alt="Gitlab">
-    </figure>
-    <figure>
+    </a>
+    <a target="_blank" href="https://bitbucket.org/">
       <img height="40" src="icon/bitbucket-original-wordmark.svg" alt="bitbucket">
-    </figure>
+    </a>
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
