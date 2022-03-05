@@ -136,7 +136,7 @@ Adding the description after
       <figcaption style="text-align: center;">Jira</figcaption>
     </figure>
     <figure>
-      <img height="40" src="icon/confluence-seeklogo.com.svg" alt="Confluence">
+      <img height="40" src="icon/confluence-1.svg" alt="Confluence">
       <figcaption style="text-align: center;">Confluence</figcaption>
     </figure>
     <figure>
