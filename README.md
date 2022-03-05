@@ -21,20 +21,18 @@ Adding the description after
 ----
 
 ## Programming languages and platforms
-<div style="display: flex">
-    <figure>
-      <img height="40" src="icon/icons8-kotlin.svg" alt="Kotlin">
-    </figure>
-    <figure>
-      <img height="40" src="icon/java-14.svg">
-    </figure>
-    <figure>
-      <img height="40" src="icon/golang-gopher.svg">
-    </figure>
-    <figure>
-      <img height="40" src="icon/terminal-1.svg">
-    </figure>
-</div>
+<a target="_blank" href="https://kotlinlang.org/">
+    <img height="40" src="icon/icons8-kotlin.svg" alt="Kotlin">
+</a>
+<a target="_blank" href="https://java.com/">
+    <img height="40" src="icon/java-14.svg">
+</a>
+<a target="_blank" href="https://go.dev/">
+    <img height="40" src="icon/golang-gopher.svg">
+</a>
+<a target="_blank" href="https://www.shellscript.sh/">
+    <img height="40" src="icon/terminal-1.svg">
+</a>
 
 ## Frameworks
 <div style="display: flex">
