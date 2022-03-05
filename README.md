@@ -24,19 +24,15 @@ Adding the description after
 <div style="display: flex">
     <figure>
       <img height="40" src="icon/icons8-kotlin.svg" alt="Kotlin">
-      <figcaption style="text-align: center;">Kotlin</figcaption>
     </figure>
     <figure>
       <img height="40" src="icon/java-14.svg">
-      <figcaption style="text-align: center;">Java</figcaption>
     </figure>
     <figure>
       <img height="40" src="icon/golang-gopher.svg">
-      <figcaption style="text-align: center;">Golang</figcaption>
     </figure>
     <figure>
       <img height="40" src="icon/terminal-1.svg">
-      <figcaption style="text-align: left;">Shell script</figcaption>
     </figure>
 </div>
 
