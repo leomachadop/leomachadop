@@ -1,4 +1,4 @@
-### 👋 Hi guys, I'm Leo!! <img src="icon/running-run-svgrepo-com.svg" width="24px">
+# 👋 Hi guys, I'm Leo!! <img src="icon/running-run-svgrepo-com.svg" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/leomachadop/?locale=en_US">
   <img align="left" alt="LinkdeIN" width="40px" src="icon/linkedin-icon.svg" />
@@ -20,7 +20,7 @@ Adding the description after
 
 ----
 
-## Programming languages and platforms
+### Programming languages and platforms
 <a target="_blank" href="https://kotlinlang.org/">
     <img height="40" src="icon/icons8-kotlin.svg" alt="Kotlin">
 </a>
@@ -34,7 +34,7 @@ Adding the description after
     <img height="40" src="icon/terminal-1.svg">
 </a>
 
-## Frameworks
+### Frameworks
 <div style="display: flex">
     <figure>
       <img height="40" src="icon/spring-3.svg" alt="Spring">
@@ -46,10 +46,10 @@ Adding the description after
     </figure>
 </div>
 
-## Tests Frameworks
+### Tests Frameworks
 
 
-## Cloud
+### Cloud
 <div style="display: flex">
     <figure>
       <img height="40" src="icon/amazonwebservices-original.svg" alt="AWS">
@@ -57,7 +57,7 @@ Adding the description after
     </figure>
 </div>
 
-## Containers
+### Containers
 <div style="display: flex">
     <figure>
       <img height="40" src="icon/docker-original-wordmark.svg" alt="Docker">
@@ -69,7 +69,7 @@ Adding the description after
     </figure>
 </div>
 
-## Cloud components
+### Cloud components
 <div style="display: flex">
     <figure>
       <img height="40" src="icon/aws-lambda-svgrepo-com.svg" alt="Lambda">
@@ -93,7 +93,7 @@ Adding the description after
     </figure>
 </div>
 
-## Monitoring and Observability Tools
+### Monitoring and Observability Tools
 <div style="display: flex">
     <figure>
       <img height="40" src="icon/datadog-1.svg" alt="DataDog">
@@ -109,7 +109,7 @@ Adding the description after
     </figure>
 </div>
 
-## Databases
+### Databases
 <div style="display: flex">
     <figure>
       <img height="40" src="icon/postgresql-original-wordmark.svg" alt="PostgreSQL">
@@ -129,7 +129,7 @@ Adding the description after
     </figure>
 </div>
 
-## Agile tools and code management
+### Agile tools and code management
 <div style="display: flex">
     <figure>
       <img height="40" src="icon/jira-original-wordmark.svg" alt="Jira">
@@ -169,7 +169,7 @@ Adding the description after
     </figure>
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 
 ![Leonardo_Machado_Status](https://github-readme-stats.vercel.app/api?username=leomachadop&show_icons=true)
 
