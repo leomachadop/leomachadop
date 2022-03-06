@@ -72,6 +72,31 @@ Adding the description after
     </a>
 </div>
 
+### Integrated development environment (IDE)
+<div style="display: flex">
+    <a target="_blank" href="https://www.jetbrains.com/idea/">
+      <img height="40" src="icon/intellij-idea-1.svg" alt="AWS">
+    </a>
+    <a target="_blank" href="https://www.jetbrains.com/go/">
+      <img height="40" src="icon/JetBrain GoLand.svg" alt="Go">
+    </a>
+    <a target="_blank" href="https://www.jetbrains.com/datagrip/">
+      <img height="40" src="icon/datagrip-icon.svg" alt="DataGrip">
+    </a>
+    <a target="_blank" href="https://eclipse.org//">
+      <img height="40" src="icon/eclipse-11.svg" alt="eclipse">
+    </a>
+    <a target="_blank" href="https://code.visualstudio.com/">
+      <img height="40" src="icon/visual-studio-code-1.svg" alt="visualstudio">
+    </a>
+    <a target="_blank" href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html">
+      <img height="40" src="icon/sql-dev-new_Technology_Data-Security_Detailed.svg" alt="SqlDeveloper">
+    </a>
+    <a target="_blank" href="https://www.postman.com/">
+      <img height="40" src="icon/postman.svg" alt="Postman">
+    </a>
+</div>
+
 ### Cloud
 <div style="display: flex">
     <a target="_blank" href="https://aws.amazon.com/">
@@ -109,12 +134,18 @@ Adding the description after
     <a target="_blank" href="https://kafka.apache.org/">
       <img height="40" src="icon/kafka.svg" alt="Kafka">
     </a>
+    <a target="_blank" href="https://www.broadcom.com/products/software/api-management/layer7-api-gateways">
+      <img height="40" src="icon/ca-api-gateway.jpg" alt="Kafka">
+    </a>
 </div>
 
 ### Monitoring and Observability Tools
 <div style="display: flex">
     <a target="_blank" href="https://www.datadoghq.com/">
       <img height="40" src="icon/datadog-1.svg" alt="DataDog">
+    </a>
+    <a target="_blank" href="https://www.jaegertracing.io/">
+      <img height="40" src="icon/jaegertracing.jpg" alt="jaegertracing">
     </a>
     <a target="_blank" href="https://aws.amazon.com/cloudwatch/">
       <img height="40" src="icon/aws-cloudwatch3112.jpg" alt="AWS CloudWatch">
