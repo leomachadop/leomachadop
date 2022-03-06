@@ -16,14 +16,26 @@
 
 ---- 
 
-✓ Career developed in Information Technology, with extensive experience in systems analysis and development, with several projects with agile methodologies since 2010
+* I've been Dev Backend for a few years (since 2008)
 
-✓ Participation of the entire system/software lifecycle
+* From the beginning of my professional career until 2021, I work in the Java world, updating frameworks and new versions of Java (although I have not worked professionally after version 9)
 
-✓ Solid knowledge of the Java platform I have been working on since 2008 and an enthusiast of design patterns, SOLID and software quality
+* After 2021 I started working with Kotlin and briefly with Golang (a language that I really like) in addition to having a more effective performance with micro services and AWS
 
-✓ Search for knowledge in areas related to the financial market, especially economics, finance and banking to better contribute to the solutions offered to customers
+* Main Java/Kotlin frameworks that I have knowledge of are: Spring, Spring-boot, Spring-batch, Micronaut, Hibernate, JPA, Java EE, Itext, JasperReport, JSF and Primefaces
 
+* Database: essentially Oracle and some projects with PostgreSQL and Cassandra. I have knowledge as a study base in MongoDB
+
+* Code design I like some patterns like: Clean Architecture, SOLID and gof designs patterns
+
+* In software development, I highly appreciate the code quality of what I am delivering and this I consider as one of my pillars, I use techniques such as: TDD, unit tests, integration tests, pair programming and code review
+  * Obs.: I did a postgraduate research in Design and Systems Development on Code Review in which I could better understand the various benefits that are obtained
+
+* In general, all projects used Scrum as a development methodology, but each location has its own particularities and different objectives
+
+* My biggest career goals are to specialize in the financial market (where I have been working since October 2014), improve my knowledge in AWS and, in the future, be an expert in data applied to the financial market
+
+* My biggest contributions are in private repositories
 ----
 
 ### Programming languages and platforms
