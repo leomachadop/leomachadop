@@ -29,7 +29,7 @@
 * Code design I like some patterns like: Clean Architecture, SOLID and gof designs patterns
 
 * In software development, I highly appreciate the code quality of what I am delivering and this I consider as one of my pillars, I use techniques such as: TDD, unit tests, integration tests, pair programming and code review
-  * Obs.: I did a postgraduate research in Design and Systems Development on Code Review in which I could better understand the various benefits that are obtained
+  * I did a postgraduate research in <a href="https://www.linkedin.com/in/leomachadop/overlay/1615165277292/single-media-viewer/">Design and Systems Development on Code Review (only in portuguese)</a> in which I could better understand the various benefits that are obtained
 
 * In general, all projects used Scrum as a development methodology, but each location has its own particularities and different objectives
 
