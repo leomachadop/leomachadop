@@ -16,7 +16,13 @@
 
 ---- 
 
-Adding the description after
+✓ Career developed in Information Technology, with extensive experience in systems analysis and development, with several projects with agile methodologies since 2010
+
+✓ Participation of the entire system/software lifecycle
+
+✓ Solid knowledge of the Java platform I have been working on since 2008 and an enthusiast of design patterns, SOLID and software quality
+
+✓ Search for knowledge in areas related to the financial market, especially economics, finance and banking to better contribute to the solutions offered to customers
 
 ----
 
