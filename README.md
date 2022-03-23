@@ -41,8 +41,6 @@
   * Participating in these projects was very cool and rewarding, in addition to the benefit it will bring to Brazilian society in order to redemocratize and make credit cheaper
   * I strongly believe that financial inclusion is of great importance in the growth of a country
 
-* My biggest career goals are to specialize in the financial market (where I have been working since October 2014), improve my knowledge in AWS and, in the future, be an expert in data applied to the financial market
-
 * I am currently studying two postgraduate courses.
   * <a href="https://online.pucrs.br/pos/financas-investimentos-banking">Finance, investments and banking</a>: The objective is to understand the financial market well and be able to contribute to the companies I work for
   * <a href="https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Ci%C3%AAncia-de-Dados-e-Big-Data.aspx">Data Science and Big Data</a>: Objective is to learn how to apply knowledge of the financial market in machine learning algorithms and Artificial Intelligence 
@@ -50,6 +48,8 @@
 * I'm developing a work as a basis for the study of some platforms and languages that I'm interested in, the goal is to be able to apply the knowledge I've been acquiring in the postgraduate courses I'm doing
   * If you want to know more visit: <a href="https://github.com/leomachadop/autonomous-financial-planner">autonomous-financial-planner</a>
   * Every repository that starts with AFP is part of this project
+
+* My biggest career goals are to specialize in the financial market (where I have been working since October 2014), improve my knowledge in AWS and, in the future, be an expert in data applied to the financial market
 
 * My biggest contributions are in private repositories
 ----
