@@ -37,7 +37,7 @@
 
 * I had the opportunity to participate in two important regulatory projects in Brazil
   * <a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3952">Circular 3952</a>, allows commercial establishments to use their receivables in a fractional or full way as collateral in different financial operators to apply for credit
-  * <a href="https://openbankingbrasil.org.br/?cookie=true">OpenBanking Brasil</a>, will give more freedom of choice through sharing financial data, products and services
+  * <a href="https://openbankingbrasil.org.br/?cookie=true">OpenBanking Brazil</a>, will give more freedom of choice through sharing financial data, products and services
   * Participating in these projects was very cool and rewarding, in addition to the benefit it will bring to Brazilian society in order to redemocratize and make credit cheaper
   * I strongly believe that financial inclusion is of great importance in the growth of a country
 
