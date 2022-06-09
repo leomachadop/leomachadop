@@ -3,9 +3,6 @@
 <a target="_blank" href="https://www.linkedin.com/in/leomachadop/?locale=en_US">
   <img align="left" alt="LinkdeIN" width="40px" src="icon/linkedin-icon.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5511976524468">
-  <img align="left" alt="Whatsapp" width="40px" src="icon/whatsapp-icon.svg" />
-</a>
 <a target="_blank" href="mailto:leo.machadop@gmail.com">
   <img align="left" alt="Gmail" width="40px" src="icon/gmail-icon.svg" />
 </a>
