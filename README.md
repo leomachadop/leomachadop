@@ -1,4 +1,4 @@
-# 👋 Hi guys, I'm Leo!!! <img src="icon/running-run-svgrepo-com.svg" width="24px">
+# 👋 Hi guys, I'm Leo!!!
 
 <a target="_blank" href="https://www.linkedin.com/in/leomachadop/?locale=en_US">
   <img align="left" alt="LinkdeIN" width="40px" src="icon/linkedin-icon.svg" />
