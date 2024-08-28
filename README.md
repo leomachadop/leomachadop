@@ -45,24 +45,15 @@ If you wish to explore my work further, please visit my [GitHub repository](http
 
 ### Hard Skills
 
-- **Backend Programming Languages**: Java, Kotlin, Golang
-- **Frameworks and Technologies**: Spring Boot, Spring Batch, Spring Cloud, Spring Data, Spring Security, Micronaut, Hibernate/JPA, Java EE, JSF, Primefaces
-- **Code Quality and Testing**: TDD, Design Patterns (GoF), Clean Architecture, Hexagonal Architecture, SOLID Principles, JUnit, Mockito, Kotest, Mockk, JMeter
-- **DevOps and Observability Tools**: Docker, Kubernetes, AWS (Lambda, ECS, EKS, S3, SQS, CloudWatch), Azure, Datadog, Jaeger Tracing, AWS XRay
-- **Databases**: Oracle, PostgreSQL, SQL Server, Cassandra, MongoDB
-- **Build and Continuous Integration Tools**: Maven, Gradle, Jenkins, Azure DevOps, Harness
-- **Code Management and Versioning**: GitHub, GitLab, Bitbucket
-- **Programming Languages and Platforms**: Kotlin, Java, Golang, ShellScript
-- **Frameworks**: Spring, Micronaut, Hibernate, Jasper, JPA
-- **Test Frameworks**: JUnit, Mockito, Kotest, Mockk, Spring-Test, JMeter
-- **Integrated Development Environment (IDE)**: IntelliJ IDEA, GoLand, DataGrip, Eclipse, VS Code, SQL Developer, Postman, Insomnia
-- **Cloud**: AWS, Azure
-- **Containers**: Docker, Kubernetes
-- **Cloud Components**: AWS Lambda, AWS ECS, AWS EKS, AWS SQS, AWS S3, MSK, Kafka, CA API Gateway
-- **Monitoring and Observability Tools**: Datadog, Jaeger Tracing, AWS CloudWatch, AWS XRay
-- **Deployment and Build Tools**: Maven, Gradle, Jenkins, Harness, Azure DevOps
-- **Agile Tools**: Jira, Confluence, Scrum, Kanban, Code Review, Lean Software Development, Unit Testing, Clean Architecture, TDD, SOLID
-- **Code Management**: GitHub, GitLab, Bitbucket
+ - **Frameworks and Technologies**: Spring Boot, Spring Batch, Spring Cloud, Spring Data, Spring Security, Micronaut, Hibernate, JPA, Java EE, JSF, Primefaces.
+ - **Programming Languages**: Java, Kotlin, Golang, ShellScript.
+ - **Code Quality and Design**: Clean Architecture, Hexagonal Architecture, SOLID, Design Patterns (GoF), TDD, JUnit, Mockito, Kotest, Mockk, JMeter.
+ - **DevOps and Observability Tools**: Docker, Kubernetes, AWS (Lambda, ECS, EKS, S3, SQS, CloudWatch), Azure, Datadog, Jaeger Tracing, AWS X-Ray.
+ - **Databases**: Oracle, PostgreSQL, SQL Server, MongoDB, Cassandra.
+ - **Build and Continuous Integration Tools**: Maven, Gradle, Jenkins, Azure DevOps, Harness.
+ - **Code Management and Versioning**: GitHub, GitLab, Bitbucket.
+ - **IDE and Development Tools**: IntelliJ IDEA, GoLand, DataGrip, Eclipse, VS Code, SQL Developer, Postman, Insomnia.
+ - **Agile Tools**: Jira, Confluence, Scrum, Kanban, Code Review, Lean Software Development.
 
 ### Soft Skills
 
