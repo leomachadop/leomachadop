@@ -41,90 +41,43 @@ If you wish to explore my work further, please visit my [GitHub repository](http
 
 ----
 
-### Programming languages and platforms
-* Kotlin
-* Java
-* Golang
-* ShellScript
+## Skill Tags
 
-### Frameworks
-* Spring
-* Micronaut
-* Hibernate
-* Jasper
-* Jpa
+### Hard Skills
 
-### Tests Frameworks
-* JUnit
-* Mockito
-* Kotest
-* Mockk
-* Spring-Test
-* JMeter
+- **Backend Programming Languages**: Java, Kotlin, Golang
+- **Frameworks and Technologies**: Spring Boot, Spring Batch, Spring Cloud, Spring Data, Spring Security, Micronaut, Hibernate/JPA, Java EE, JSF, Primefaces
+- **Code Quality and Testing**: TDD, Design Patterns (GoF), Clean Architecture, Hexagonal Architecture, SOLID Principles, JUnit, Mockito, Kotest, Mockk, JMeter
+- **DevOps and Observability Tools**: Docker, Kubernetes, AWS (Lambda, ECS, EKS, S3, SQS, CloudWatch), Azure, Datadog, Jaeger Tracing, AWS XRay
+- **Databases**: Oracle, PostgreSQL, SQL Server, Cassandra, MongoDB
+- **Build and Continuous Integration Tools**: Maven, Gradle, Jenkins, Azure DevOps, Harness
+- **Code Management and Versioning**: GitHub, GitLab, Bitbucket
+- **Programming Languages and Platforms**: Kotlin, Java, Golang, ShellScript
+- **Frameworks**: Spring, Micronaut, Hibernate, Jasper, JPA
+- **Test Frameworks**: JUnit, Mockito, Kotest, Mockk, Spring-Test, JMeter
+- **Integrated Development Environment (IDE)**: IntelliJ IDEA, GoLand, DataGrip, Eclipse, VS Code, SQL Developer, Postman, Insomnia
+- **Cloud**: AWS, Azure
+- **Containers**: Docker, Kubernetes
+- **Cloud Components**: AWS Lambda, AWS ECS, AWS EKS, AWS SQS, AWS S3, MSK, Kafka, CA API Gateway
+- **Monitoring and Observability Tools**: Datadog, Jaeger Tracing, AWS CloudWatch, AWS XRay
+- **Deployment and Build Tools**: Maven, Gradle, Jenkins, Harness, Azure DevOps
+- **Agile Tools**: Jira, Confluence, Scrum, Kanban, Code Review, Lean Software Development, Unit Testing, Clean Architecture, TDD, SOLID
+- **Code Management**: GitHub, GitLab, Bitbucket
 
-### Integrated development environment (IDE)
-* Intellij Idea
-* GoLand
-* DataGrip
-* Eclipse
-* VS Code
-* SqlDeveloper
-* Postman
-* Insonia
+### Soft Skills
 
-### Cloud
-* AWS
-* Azure
-
-### Containers
-* Docker
-* Kubernetes
-
-### Cloud components
-* AWS Lambda
-* AWS ECS
-* AWS EKS
-* AWS SQS
-* AWS S3
-* MSK
-* Kafka
-* CA API Gateway
-
-### Monitoring and Observability Tools
-* Datadog
-* Jaeger Tracing
-* AWS CloudWatch
-* AWS XRay
-
-### Deployment and build tools
-* Maven
-* Gradle
-* Jenkins
-* Harness
-* Azure Devops
-
-### Databases
-* Oracle
-* PostgreSql
-* Cassandra
-* Mongo
-
-### Agile tools
-* Jira
-* Confluence
-* Scrum
-* Kanban
-* Code Review
-* Lean Software Development
-* Unit Testing
-* Clean Architecture
-* TDD
-* SOLID
-
-### Code management
-* github
-* gitlab
-* bitbucket
+- Effective Communication
+- Teamwork
+- Complex Problem Solving
+- Decision Making
+- Results Orientation
+- Adaptability
+- Project Planning and Coordination
+- Critical Thinking
+- Business Acumen
+- Empathy and Emotional Intelligence
+- Conflict Management
+- Organization and Time Management
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 
