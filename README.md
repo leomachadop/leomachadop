@@ -69,9 +69,3 @@ If you wish to explore my work further, please visit my [GitHub repository](http
 - Empathy and Emotional Intelligence
 - Conflict Management
 - Organization and Time Management
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
-
-![Leonardo_Machado_Status](https://github-readme-stats.vercel.app/api?username=leomachadop&show_icons=true)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leomachadop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
