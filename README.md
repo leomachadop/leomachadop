@@ -1,71 +1,57 @@
-# 👋 Hi guys, I'm Leo!!!
+# 👋 Hi, I'm Leo!
 
 <a target="_blank" href="https://www.linkedin.com/in/leomachadop/?locale=en_US">
-  <img align="left" alt="LinkdeIN" width="40px" src="icon/linkedin-icon.svg" />
+  <img align="left" alt="LinkedIn" width="40px" src="icon/linkedin-icon.svg" />
 </a>
 <a target="_blank" href="mailto:leo.machadop@gmail.com">
   <img align="left" alt="Gmail" width="40px" src="icon/gmail-icon.svg" />
 </a>
 <a target="_blank" href="https://www.strava.com/athletes/leomachadop">
-  <img align="left" alt="Facebook" width="40px" src="icon/strava-2.svg" />
+  <img align="left" alt="Strava" width="40px" src="icon/strava-2.svg" />
 </a>
-<br>
+<br><br>
 
 ---- 
+
 **Professional Background:**
 
-I have a robust background in backend development, spanning over a decade since 2008. Throughout my career, I've been deeply immersed in the Java world, diligently updating frameworks and embracing new Java versions up until version 9. After 2021, my journey in the programming landscape expanded, delving into Kotlin and briefly exploring Golang, a language I found particularly intriguing. This expansion correlated with my foray into the realm of microservices and AWS, where I found the intersection of efficiency and performance.
+Based in Osasco, SP, I am a Senior Backend Developer with over 15 years of experience, starting my journey back in 2008. While my roots are deeply planted in the Java ecosystem, my programming landscape has naturally broadened over the years to embrace Kotlin, Python, and Golang. This technical evolution went hand in hand with my foray into microservices, event-driven architectures, and AWS, where I found the perfect intersection of efficiency, scalability, and performance. Today, I focus heavily on software architecture, code quality, and delivering robust, intelligent systems.
 
-**Technical Expertise:**
+**Technical Expertise & Practices:**
 
-Within the Java and Kotlin domains, I command an array of frameworks, including Spring, Spring-boot, Spring-batch, Micronaut, Hibernate, JPA, Java EE, Itext, JasperReport, JSF, and Primefaces. I possess in-depth knowledge of databases, primarily Oracle, with additional experience in projects involving PostgreSQL and Cassandra. My expertise extends to MongoDB, where I have a solid foundational understanding.
+Within the Java and Kotlin domains, I command an array of frameworks, including the Spring ecosystem and Micronaut. I possess in-depth knowledge of relational databases like Oracle and PostgreSQL, alongside NoSQL solutions like MongoDB and Cassandra. 
 
-**Code Design and Development Practices:**
+I am passionate about code quality, considering it the cornerstone of any sustainable software. I employ methodologies such as TDD, rigorous code reviews, Clean Architecture, Hexagonal Architecture, and SOLID principles. I furthered my understanding of these concepts through a postgraduate research endeavor focused entirely on Code Review and its multifaceted benefits.
 
-I am passionate about code quality, considering it a cornerstone of my work. To ensure impeccable quality, I employ methodologies such as TDD, unit tests, integration tests, pair programming, and rigorous code review. My affinity for software architecture is reflected in my appreciation for patterns like Clean Architecture, SOLID principles, and GoF design patterns.
-I furthered my understanding through a postgraduate research endeavor focused on Code Review, exploring its multifaceted benefits.
+**Project Contributions & Domain Expertise:**
 
-**Project Contributions and Expertise:**
+I have actively contributed to highly significant regulatory and financial projects in Brazil. Notable examples include the <a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3952">Circular 3952</a> initiative and the transformative <a href="https://openbankingbrasil.org.br/?cookie=true">Open Finance Brazil</a>. I firmly believe in the power of financial inclusion and its pivotal role in a country's socioeconomic growth (<a href="https://github.com/leomachadop/leomachadop/blob/main/certificates/open-finance-certificate.png">see my Open Finance certificate</a>).
 
-I have actively contributed to significant regulatory projects in Brazil, including <a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3952">Circular 3952</a>, enabling commercial establishments to leverage receivables for credit, and <a href="https://openbankingbrasil.org.br/?cookie=true">Open Finance Brazil</a>, a transformative initiative enhancing financial choices through data sharing. I firmly believe in the power of financial inclusion and its pivotal role in a country's growth, <a href="https://github.com/leomachadop/leomachadop/blob/main/certificates/open-finance-certificate.png">see the certificate</a>.
+**Ongoing Education and The AFP Project:**
 
-**Ongoing Education and Career Aspirations:**
+My quest for knowledge is ceaseless. Currently enrolled in two postgraduate programs—one in Finance, Investments & Banking, and another in Data Science & Big Data—I aim to bridge the gap between deep financial expertise and cutting-edge technology. 
 
-My quest for knowledge is ceaseless. Currently enrolled in postgraduate courses, one in Finance, Investments, and Banking and another in Data Science and Big Data, I aim to bridge the gap between financial expertise and cutting-edge technology. To apply my learnings, I am developing an ambitious project, the Autonomous Financial Planner, encompassing various platforms and languages. My future aspirations revolve around specializing in the financial market, deepening my expertise in AWS, and becoming a data expert applied to the financial domain.
+To practically apply my learnings, I am developing **The Autonomous Financial Planner (AFP)**. Far beyond a simple expense tracker, the AFP is an intelligent, event-driven personal planner powered by LLMs designed to democratize high-end financial advisory. Built on a robust serverless architecture (Python, AWS, MongoDB, AI models), it seamlessly ingests financial transactions and personal signals, enriches them progressively, and crosses this data with macroeconomic indicators to provide actionable insights in natural language.
 
-**Closing Note:**
+**Beyond the Code:**
 
-In essence, my career is a tapestry woven with diverse experiences, relentless pursuit of knowledge, and unwavering commitment to code excellence. My journey, marked by significant projects and ongoing education, propels me toward a future where technology and finance harmonize to create innovative solutions.
+When I'm away from the keyboard, I have a deep appreciation for nature. I'm an enthusiastic amateur photographer and birdwatcher, with a profound admiration for the Harpy Eagle.
 
-If you wish to explore my work further, please visit my [GitHub repository](https://github.com/leomachadop) to witness the depth of my contributions in private repositories.
+I maintain a disciplined physical routine, mixing HIIT and indoor cycling (always tracking my performance on my Garmin). To balance things out, I love baking homemade bread in my bread machine and listening to heavy Death Metal (bands like Behemoth and Sowing Salt are always on the playlist). 
+
+I'm a huge gaming fan across PC, PlayStation, and Nintendo Switch—and I pride myself on an insanely high headshot accuracy in games like *The Last of Us Part II*. Most importantly, I'm a proud supporter of São Paulo FC and happily married to my wonderful wife, Mara.
 
 ----
 
-## Skill Tags
+## 🛠️ Skill Tags
 
-### Hard Skills
-
- - **Frameworks and Technologies**: Spring Boot, Spring Batch, Spring Cloud, Spring Data, Spring Security, Micronaut, Hibernate, JPA, Java EE, JSF, Primefaces.
- - **Programming Languages**: Java, Kotlin, Golang, ShellScript.
- - **Code Quality and Design**: Clean Architecture, Hexagonal Architecture, SOLID, Design Patterns (GoF), TDD, JUnit, Mockito, Kotest, Mockk, JMeter.
- - **DevOps and Observability Tools**: Docker, Kubernetes, AWS (Lambda, ECS, EKS, S3, SQS, CloudWatch), Azure, Datadog, Jaeger Tracing, AWS X-Ray.
- - **Databases**: Oracle, PostgreSQL, SQL Server, MongoDB, Cassandra.
- - **Build and Continuous Integration Tools**: Maven, Gradle, Jenkins, Azure DevOps, Harness.
- - **Code Management and Versioning**: GitHub, GitLab, Bitbucket.
- - **IDE and Development Tools**: IntelliJ IDEA, GoLand, DataGrip, Eclipse, VS Code, SQL Developer, Postman, Insomnia.
- - **Agile Tools**: Jira, Confluence, Scrum, Kanban, Code Review, Lean Software Development.
-
-### Soft Skills
-
-- Effective Communication
-- Teamwork
-- Complex Problem Solving
-- Decision Making
-- Results Orientation
-- Adaptability
-- Project Planning and Coordination
-- Critical Thinking
-- Business Acumen
-- Empathy and Emotional Intelligence
-- Conflict Management
-- Organization and Time Management
+| Category | Skills & Technologies |
+| :--- | :--- |
+| 💻 **Languages** | Java, Kotlin, Python, Golang, ShellScript |
+| 🤖 **AI & LLMs** | AWS Bedrock, Ollama, Prompt Engineering, MCP (Model Context Protocol), Anthropic/Claude |
+| ⚙️ **Frameworks** | Spring Ecosystem (Boot, Batch, Cloud, Security), Micronaut, Hibernate, JPA, Java EE |
+| 📐 **Architecture & Design** | Event-Driven Architecture, Serverless, Clean/Hexagonal Architecture, SOLID, GoF, TDD, JUnit, Mockito, Mockk |
+| ☁️ **DevOps & Cloud** | AWS (Lambda, SQS, EventBridge, S3, ECS, EKS, Secrets Manager, CloudWatch), Docker, Kubernetes, Datadog |
+| 🗄️ **Data & Analytics** | MongoDB (Atlas, Change Streams), Oracle, PostgreSQL, SQL Server, Cassandra, Metabase |
+| 🚀 **CI/CD & Tools** | Maven, Gradle, Jenkins, Azure DevOps, Harness, GitHub, GitLab, Postman, Insomnia |
+| 🧠 **Soft Skills & Domain** | Business Acumen (Financial/Open Finance), Complex Problem Solving, Effective Communication, Team Coordination |
