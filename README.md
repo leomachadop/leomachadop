@@ -13,9 +13,11 @@
 
 ---- 
 
-**Professional Background:**
+**Professional Background & Technical Leadership:**
 
-Based in Osasco, SP, I am a Senior Backend Developer with over 15 years of experience, starting my journey back in 2008. While my roots are deeply planted in the Java ecosystem, my programming landscape has naturally broadened over the years to embrace Kotlin, Python, and Golang. This technical evolution went hand in hand with my foray into microservices, event-driven architectures, and AWS, where I found the perfect intersection of efficiency, scalability, and performance. Today, I focus heavily on software architecture, code quality, and delivering robust, intelligent systems.
+Based in Osasco, SP, I am a Senior Backend Developer and Tech Lead with over 15 years of experience, starting my journey back in 2008. While my roots are deeply planted in the Java ecosystem, my programming landscape has naturally broadened over the years to embrace Kotlin, Python, and Golang. This technical evolution went hand in hand with my foray into microservices, event-driven architectures, and AWS, where I found the perfect intersection of efficiency, scalability, and performance. 
+
+Today, my focus goes far beyond just writing code. I act as a technical multiplier within my teams. As a Tech Lead, I am deeply committed to driving the team forward, mentoring fellow developers, raising the technical bar, and fostering a culture of engineering excellence and continuous learning.
 
 **Technical Expertise & Practices:**
 
@@ -32,6 +34,12 @@ I have actively contributed to highly significant regulatory and financial proje
 My quest for knowledge is ceaseless. Currently enrolled in two postgraduate programs—one in Finance, Investments & Banking, and another in Data Science & Big Data—I aim to bridge the gap between deep financial expertise and cutting-edge technology. 
 
 To practically apply my learnings, I am developing **The Autonomous Financial Planner (AFP)**. Far beyond a simple expense tracker, the AFP is an intelligent, event-driven personal planner powered by LLMs designed to democratize high-end financial advisory. Built on a robust serverless architecture (Python, AWS, MongoDB, AI models), it seamlessly ingests financial transactions and personal signals, enriches them progressively, and crosses this data with macroeconomic indicators to provide actionable insights in natural language.
+
+**AI as a Productivity Multiplier:**
+
+I have deeply integrated Artificial Intelligence into my daily routines, turning it into a massive force multiplier. Professionally, I leverage AI as a constant pair-programming partner to brainstorm architectural designs, debug complex pipelines, and streamline code reviews. My hands-on experience goes beyond interacting with chatbots; I actively engineer AI-driven solutions. In the AFP project, for instance, I utilize LLMs (AWS Bedrock, Ollama) and the Model Context Protocol (MCP) as intelligent semantic routers to automate task management and financial enrichment.
+
+In my personal life, AI acts as my ultimate research assistant. Whether I am planning intricate itineraries for birdwatching trips in the mountains, optimizing my home-baked bread recipes, or researching the best gear for my indoor cycling setup, AI handles the heavy lifting. It allows me to automate the mundane and focus entirely on execution and creativity.
 
 **Beyond the Code:**
 
@@ -54,4 +62,4 @@ I'm a huge gaming fan across PC, PlayStation, and Nintendo Switch—and I pride 
 | ☁️ **DevOps & Cloud** | AWS (Lambda, SQS, EventBridge, S3, ECS, EKS, Secrets Manager, CloudWatch), Docker, Kubernetes, Datadog |
 | 🗄️ **Data & Analytics** | MongoDB (Atlas, Change Streams), Oracle, PostgreSQL, SQL Server, Cassandra, Metabase |
 | 🚀 **CI/CD & Tools** | Maven, Gradle, Jenkins, Azure DevOps, Harness, GitHub, GitLab, Postman, Insomnia |
-| 🧠 **Soft Skills & Domain** | Business Acumen (Financial/Open Finance), Complex Problem Solving, Effective Communication, Team Coordination |
+| 🧠 **Soft Skills & Domain** | Technical Leadership & Mentorship, Business Acumen (Financial Domains), Complex Problem Solving |
