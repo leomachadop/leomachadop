@@ -31,7 +31,7 @@ I have actively contributed to highly significant regulatory and financial proje
 
 **Ongoing Education and The AFP Project:**
 
-My quest for knowledge is ceaseless. Currently enrolled in two postgraduate programs—one in Finance, Investments & Banking, and another in Data Science & Big Data—I aim to bridge the gap between deep financial expertise and cutting-edge technology. 
+My quest for knowledge is ceaseless. Currently enrolled in a postgraduate program in Finance, Investments & Banking, I aim to bridge the gap between deep financial expertise and cutting-edge technology. 
 
 To practically apply my learnings, I am developing **The Autonomous Financial Planner (AFP)**. Far beyond a simple expense tracker, the AFP is an intelligent, event-driven personal planner powered by LLMs designed to democratize high-end financial advisory. Built on a robust serverless architecture (Python, AWS, MongoDB, AI models), it seamlessly ingests financial transactions and personal signals, enriches them progressively, and crosses this data with macroeconomic indicators to provide actionable insights in natural language.
 
