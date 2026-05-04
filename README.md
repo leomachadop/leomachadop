@@ -12,9 +12,9 @@
 
 I am a **Senior Backend Developer and Tech Lead with 18 years of experience** (since 2008), currently driving technical excellence at **Núclea**. Based in Osasco, SP (and originally from São José dos Campos), I specialize in building high-scale, resilient systems using the **Java/Kotlin** ecosystem, **Python**, and **AWS**.
 
-Currently leading the technical vision for the **Common Components (CPC)** and **Personal Health Dashboard (PHD)** squads, my focus is acting as a force multiplier:
-- 🚀 **Mentorship & Leadership:** Elevating team performance, ensuring technical quality, and actively mentoring upcoming talents—both internally and through initiatives like the **Ser + Tech** program.
-- 📐 **Architecture:** Designing robust event-driven, serverless, and cloud-native solutions that power critical financial and healthcare ecosystems.
+Currently leading high-impact engineering initiatives and core technical foundations at **Núclea**, my focus is acting as a force multiplier:
+- 🚀 **Mentorship & Leadership:** Elevating team performance and ensuring top-tier technical quality. I am actively committed to mentoring upcoming talents, both internally and through initiatives like the **Ser + Tech** program.
+- 📐 **Architecture:** Designing robust event-driven, serverless, and cloud-native solutions that power critical financial and digital ecosystems.
 - 🛠️ **Culture:** Fostering a mindset of Clean Code, TDD, and rigorous Engineering Excellence across multiple cross-functional teams.
 
 ---
