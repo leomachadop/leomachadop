@@ -1,65 +1,64 @@
 # 👋 Hi, I'm Leo!
 
-<a target="_blank" href="https://www.linkedin.com/in/leomachadop/?locale=en_US">
-  <img align="left" alt="LinkedIn" width="40px" src="icon/linkedin-icon.svg" />
-</a>
-<a target="_blank" href="mailto:leo.machadop@gmail.com">
-  <img align="left" alt="Gmail" width="40px" src="icon/gmail-icon.svg" />
-</a>
-<a target="_blank" href="https://www.strava.com/athletes/leomachadop">
-  <img align="left" alt="Strava" width="40px" src="icon/strava-2.svg" />
-</a>
-<br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/leomachadop/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:leo.machadop@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.strava.com/athletes/leomachadop"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava"></a>
+</p>
 
----- 
+---
 
-**Professional Background & Technical Leadership:**
+### 💻 Professional Background & Technical Leadership
 
-Based in Osasco, SP, I am a Senior Backend Developer and Tech Lead with over 15 years of experience, starting my journey back in 2008. While my roots are deeply planted in the Java ecosystem, my programming landscape has naturally broadened over the years to embrace Kotlin, Python, and Golang. This technical evolution went hand in hand with my foray into microservices, event-driven architectures, and AWS, where I found the perfect intersection of efficiency, scalability, and performance. 
+I am a **Senior Backend Developer and Tech Lead with 18 years of experience** (since 2008), currently driving technical excellence at **Núclea**. Based in Osasco, SP (and originally from São José dos Campos), I specialize in building high-scale, resilient systems using the **Java/Kotlin** ecosystem, **Python**, and **AWS**.
 
-Today, my focus goes far beyond just writing code. I act as a technical multiplier within my teams. As a Tech Lead, I am deeply committed to driving the team forward, mentoring fellow developers, raising the technical bar, and fostering a culture of engineering excellence and continuous learning.
+Currently leading the technical vision for the **Common Components (CPC)** and **Personal Health Dashboard (PHD)** squads, my focus is acting as a force multiplier:
+- 🚀 **Mentorship & Leadership:** Elevating team performance, ensuring technical quality, and actively mentoring upcoming talents—both internally and through initiatives like the **Ser + Tech** program.
+- 📐 **Architecture:** Designing robust event-driven, serverless, and cloud-native solutions that power critical financial and healthcare ecosystems.
+- 🛠️ **Culture:** Fostering a mindset of Clean Code, TDD, and rigorous Engineering Excellence across multiple cross-functional teams.
 
-**Technical Expertise & Practices:**
+---
 
-Within the Java and Kotlin domains, I command an array of frameworks, including the Spring ecosystem and Micronaut. I possess in-depth knowledge of relational databases like Oracle and PostgreSQL, alongside NoSQL solutions like MongoDB and Cassandra. 
+### 🤖 AI Engineering & Harpy Finance (AFP)
 
-I am passionate about code quality, considering it the cornerstone of any sustainable software. I employ methodologies such as TDD, rigorous code reviews, Clean Architecture, Hexagonal Architecture, and SOLID principles. I furthered my understanding of these concepts through a postgraduate research endeavor focused entirely on Code Review and its multifaceted benefits.
+I leverage Artificial Intelligence not just as an end-user, but as a core engineering component. I am currently architecting **Harpy Finance (Autonomous Financial Planner - AFP)**, a serverless platform that democratizes high-end financial advisory through autonomous AI agents.
 
-**Project Contributions & Domain Expertise:**
+**Technical Foundation for Harpy Finance:**
+- **Core Architecture:** Python, AWS (Serverless ecosystem).
+- **AI Orchestration & Agents:** Extensive integration of the **Model Context Protocol (MCP)** for robust data processing and agent communication, alongside custom RAG architectures.
+- **Models:** Anthropic/Claude, AWS Bedrock, and local inference models via Ollama.
 
-I have actively contributed to highly significant regulatory and financial projects in Brazil. Notable examples include the <a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3952">Circular 3952</a> initiative and the transformative <a href="https://openbankingbrasil.org.br/?cookie=true">Open Finance Brazil</a>. I firmly believe in the power of financial inclusion and its pivotal role in a country's socioeconomic growth (<a href="https://github.com/leomachadop/leomachadop/blob/main/certificates/open-finance-certificate.png">see my Open Finance certificate</a>).
+Beyond product development, AI is deeply embedded in my daily engineering lifecycle. I actively utilize AI-native coding agents like **Aider** and **Cursor** as constant pair-programming partners to accelerate architectural design, tackle complex debugging, and maintain high standards during code reviews.
 
-**Ongoing Education and The AFP Project:**
+---
 
-My quest for knowledge is ceaseless. Currently enrolled in a postgraduate program in Finance, Investments & Banking, I aim to bridge the gap between deep financial expertise and cutting-edge technology. 
+### 🏦 Domain Expertise: Finance & Banking
 
-To practically apply my learnings, I am developing **The Autonomous Financial Planner (AFP)**. Far beyond a simple expense tracker, the AFP is an intelligent, event-driven personal planner powered by LLMs designed to democratize high-end financial advisory. Built on a robust serverless architecture (Python, AWS, MongoDB, AI models), it seamlessly ingests financial transactions and personal signals, enriches them progressively, and crosses this data with macroeconomic indicators to provide actionable insights in natural language.
+With a deep background in Brazilian regulatory projects (Circular 3952, **Open Finance Brazil**), I am currently completing a postgraduate degree in **Finance, Investments & Banking**. My goal is to merge sophisticated financial theory with cutting-edge engineering to create the next generation of Fintech tools.
 
-**AI as a Productivity Multiplier:**
+---
 
-I have deeply integrated Artificial Intelligence into my daily routines, turning it into a massive force multiplier. Professionally, I leverage AI as a constant pair-programming partner to brainstorm architectural designs, debug complex pipelines, and streamline code reviews. My hands-on experience goes beyond interacting with chatbots; I actively engineer AI-driven solutions. In the AFP project, for instance, I utilize LLMs (AWS Bedrock, Ollama) and the Model Context Protocol (MCP) as intelligent semantic routers to automate task management and financial enrichment.
+### 🛠️ Technical Stack (2026 Edition)
 
-In my personal life, AI acts as my ultimate research assistant. Whether I am planning intricate itineraries for birdwatching trips in the mountains, optimizing my home-baked bread recipes, or researching the best gear for my indoor cycling setup, AI handles the heavy lifting. It allows me to automate the mundane and focus entirely on execution and creativity.
-
-**Beyond the Code:**
-
-When I'm away from the keyboard, I have a deep appreciation for nature. I'm an enthusiastic amateur photographer and birdwatcher, with a profound admiration for the Harpy Eagle.
-
-I maintain a disciplined physical routine, mixing HIIT and indoor cycling (always tracking my performance on my Garmin). To balance things out, I love baking homemade bread in my bread machine and listening to heavy Death Metal (bands like Behemoth and Sowing Salt are always on the playlist). 
-
-I'm a huge gaming fan across PC, PlayStation, and Nintendo Switch—and I pride myself on an insanely high headshot accuracy in games like *The Last of Us Part II*. Most importantly, I'm a proud supporter of São Paulo FC and happily married to my wonderful wife, Mara.
-
-----
-
-## 🛠️ Skill Tags
-
-| Category | Skills & Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| 💻 **Languages** | Java, Kotlin, Python, Golang, ShellScript |
-| 🤖 **AI & LLMs** | AWS Bedrock, Ollama, Prompt Engineering, MCP (Model Context Protocol), Anthropic/Claude |
-| ⚙️ **Frameworks** | Spring Ecosystem (Boot, Batch, Cloud, Security), Micronaut, Hibernate, JPA, Java EE |
-| 📐 **Architecture & Design** | Event-Driven Architecture, Serverless, Clean/Hexagonal Architecture, SOLID, GoF, TDD, JUnit, Mockito, Mockk |
-| ☁️ **DevOps & Cloud** | AWS (Lambda, SQS, EventBridge, S3, ECS, EKS, Secrets Manager, CloudWatch), Docker, Kubernetes, Datadog |
-| 🗄️ **Data & Analytics** | MongoDB (Atlas, Change Streams), Oracle, PostgreSQL, SQL Server, Cassandra, Metabase |
-| 🚀 **CI/CD & Tools** | Maven, Gradle, Jenkins, Azure DevOps, Harness, GitHub, GitLab, Postman, Insomnia |
-| 🧠 **Soft Skills & Domain** | Technical Leadership & Mentorship, Business Acumen (Financial Domains), Complex Problem Solving |
+| **Languages & Frontend** | Java 21+, Kotlin, Python, Golang, Angular |
+| **AI Engineering & Tools** | **AI Agents**, MCP, RAG, Aider, Cursor, Prompt Engineering, Bedrock, Ollama |
+| **Backend & Ecosystem** | Spring Boot 4.x, Micronaut, FastAPI, Hibernate, Lombok (strictly no `@Data`) |
+| **Cloud & Infrastructure** | AWS (EKS, ECS, Lambda, EventBridge, SQS/SNS, API Gateway), Docker, Kubernetes, Terraform |
+| **Data & Messaging** | PostgreSQL (+pgvector), MongoDB Atlas, DynamoDB (Single-Table Design), Kafka, Redis |
+| **DevOps & Observability**| GitHub Actions, GitLab CI, Harness, Datadog, OpenTelemetry |
+| **Architecture & Design** | Hexagonal/Clean Architecture, DDD, Event-Driven, Server-Driven UI |
+
+---
+
+### 🏕️ Beyond the Code
+
+When I'm not architecting systems, you'll find me:
+- 📸 **Capturing Nature:** Amateur photographer and birdwatching enthusiast. I love exploring trails in places like Petrópolis and Santarém to photograph wildlife. I also have a profound admiration for the majestic **Harpy Eagle**—a passion that even inspired my latest tattoo!
+- 🚴 **Pushing Limits:** Maintaining a high-performance routine with HIIT and indoor cycling, meticulously tracking every session on my Garmin.
+- 🎸 **Heavy Rhythms:** Fueled by Technical Death Metal and Power Metal—bands like Behemoth, Lorna Shore, and Angra are always on the playlist.
+- 🎮 **Gaming:** Relaxing with Nintendo Switch and PC sessions—whether I'm optimizing builds in *Sonic* games, exploring *The Legend of Zelda*, or revisiting *Saint Seiya*.
+- 🚗 **Cuisine & Road Trips:** Crafting homemade breads, exploring the best of Brazilian cuisine, and hitting the road in my Pulse Abarth for weekend getaways.
+
+Proud supporter of **São Paulo FC** 🔴⚪⚫ and happily married to my wonderful wife, **Mara**.
