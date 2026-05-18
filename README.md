@@ -36,23 +36,53 @@ Currently at Núclea, my focus is acting as a **force multiplier** across squads
 
 ## 🦅 Harpy Finance — Autonomous Financial Planner (AFP)
 
-> *"What if every Brazilian had access to high-end financial advisory — without the high-end price tag?"*
+> *"Most people don't have a financial information problem. They have an emotional aversion to money."*
 
-This is the question driving **Harpy Finance**, my most ambitious personal project. It's a serverless, AI-native platform that democratizes sophisticated financial planning through **autonomous AI agents** that reason, plan, and act on your financial data.
+AFP inverts the equation: the system goes to the user — not the other way around. Transactions captured from any channel (receipt photo, Telegram message, bank CSV, purchase confirmation email) are classified, enriched with real context, and delivered back as natural language analysis.
 
-**Why "Harpy"?** The Harpy Eagle (*Harpia harpyja*) is the apex predator of the Amazon rainforest — precise, powerful, and sovereign. It represents exactly what I want AFP to be in the financial space: something that sees clearly, acts decisively, and operates at a level most can't reach. (Yes, I love this bird enough to have it tattooed.)
+No forms. No dashboards you need to open. No financial education required.
+
+**Why it works where others fail:** most financial tools are passive. They require the user to open the app precisely in the environment where money already feels emotionally heavy. AFP is built on a different premise: remove friction, reduce emotional load, and let the system act through a neutral, familiar channel.
+
+What makes it unique is not just the stack — it's the behavioral foundation. AFP combines **choice architecture**, **natural language interaction**, and **autonomous AI reasoning** into a system designed for people who avoid money not because they lack information, but because engaging with it hurts.
+
+### Five integrated modules, one Signal Router
+
+A central **Signal Router (LLM)** classifies the intent of every input and routes it to the right module:
+
+- **PFM** — captures, classifies, and enriches transactions from any channel. The heart of the system.
+- **Market Analysis** — provides macroeconomic context through sources like BCB, IBGE, and FEBRABAN.
+- **Investments** — tracks B3 and Tesouro Direto signals and positions.
+- **Conversational Interface** — exposes the entire system through Telegram or CLI in natural language.
+- **OPS** — integrates personal organization with Todoist and an automated Daily Planner.
+
+### Behavioral Design Foundation
+
+AFP is not a budgeting app with AI on top. It's a behavioral system built around the idea that the real gap in personal finance is often **motivation**, not information.
+
+Its conceptual base draws from:
+
+- **COM-B** — the problem is usually not capability or opportunity, but motivation.
+- **EAST / MINDSPACE** — make interaction easy, timely, emotionally safe, and low-friction.
+- **Kahneman** — avoid triggering negative System 1 reactions with stressful financial framing.
+- **Commitment devices** — rules, defaults, and conversational contracts that protect the user from emotional decision-making.
+
+This leads to one design principle: **AFP does not educate first. It acts first.**
 
 ### Technical Architecture
 
 | Layer | Stack |
 |---|---|
-| **Core Runtime** | Python · AWS Serverless (Lambda, EventBridge, SQS) |
-| **AI Orchestration** | Model Context Protocol (MCP) · Custom RAG pipelines |
-| **Models** | Anthropic Claude · AWS Bedrock · Ollama (local inference) |
-| **Data** | PostgreSQL + pgvector · DynamoDB Single-Table Design |
-| **Infrastructure** | Terraform · GitHub Actions |
+| **Core Runtime** | Python · MongoDB · AWS Lambda · SQS FIFO |
+| **AI Orchestration** | Signal Router (LLM) · MCP-ready multi-agent patterns · contextual enrichment |
+| **Models** | Ollama (local dev) · AWS Bedrock (production) |
+| **Interfaces** | Telegram Bot API · CLI |
+| **Integrations** | Pluggy · Todoist · email/CSV/receipt ingestion |
+| **Analytics** | Metabase |
 
-> ⚠️ *Work in progress — architecture docs and first modules coming soon.*
+**Operating principle:** the MVP runs 100% locally — financial data never leaves the machine. Production migration should require changing only environment variables, with zero rewrite.
+
+**Built for Léo first.** One real user, ADHD, real money aversion, real Tech Lead routine. What works in practice becomes product. What doesn't, gets cut.
 
 ***
 
